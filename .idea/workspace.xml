@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="265bf4b6-e596-4030-b59d-d2bc352f20bb" name="Default Changelist" comment="" />
+    <list default="true" id="265bf4b6-e596-4030-b59d-d2bc352f20bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/barra_lateral.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/barra_superior.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipo_cuentas.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/icons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maps.html" beforeDir="false" afterPath="$PROJECT_DIR$/maps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl.html" beforeDir="false" afterPath="$PROJECT_DIR$/rtl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upgrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/upgrade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/user.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +45,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +63,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -32,11 +76,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601765106344</updated>
-      <workItem from="1601765120523" duration="821000" />
+      <workItem from="1601765120523" duration="6961000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog" timestamp="1601780144569">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog/0.27.1600.873@0.27.1600.873" timestamp="1601780144569" />
   </component>
 </project>
