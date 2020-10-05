@@ -19,23 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265bf4b6-e596-4030-b59d-d2bc352f20bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/barra_lateral.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/barra_superior.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tipo_cuentas.php" afterDir="false" />
+    <list default="true" id="265bf4b6-e596-4030-b59d-d2bc352f20bb" name="Default Changelist" comment="Mitad del Tipo de cuenta">
+      <change afterPath="$PROJECT_DIR$/controller/tipo_cuenta.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons.html" beforeDir="false" afterPath="$PROJECT_DIR$/icons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maps.html" beforeDir="false" afterPath="$PROJECT_DIR$/maps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/notifications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rtl.html" beforeDir="false" afterPath="$PROJECT_DIR$/rtl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upgrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/upgrade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tipo_cuentas.php" beforeDir="false" afterPath="$PROJECT_DIR$/tipo_cuentas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/user.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601765106344</updated>
-      <workItem from="1601765120523" duration="6961000" />
+      <workItem from="1601765120523" duration="14273000" />
     </task>
     <servers />
   </component>
@@ -94,10 +81,14 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mitad del Tipo de cuenta" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mitad del Tipo de cuenta" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog" timestamp="1601780144569">
+    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog" timestamp="1601863903505">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog/0.27.1600.873@0.27.1600.873" timestamp="1601780144569" />
+    <state x="595" y="389" width="379" height="149" key="NewPhpFileDialog/0.27.1600.873@0.27.1600.873" timestamp="1601863903505" />
   </component>
 </project>
